@@ -17,15 +17,17 @@ https://skillenza.com/challenge/yes-bank-datathon
 
 https://skillenza.com/challenge/yes-bank-datathon/checkpoint
 
-**Update 1**
+** __Update 1__**
 
 Several ML rounds
 
-**Update 2**
+** __Update 2__**
 
-Made it to the **Top 50** Teams
+### Made it to the **Top 50** Teams
+
 ![title](top50.JPG)
 
 ![title](ac.JPG)
+
 ![title](rajat.JPG)
 
