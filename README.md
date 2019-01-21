@@ -38,5 +38,5 @@ Several ML rounds
 
 Participated in **Yes Bank Datathon Finale 2018** round with 20 Teams.
 
-![title](AC.pdf)
+![title](AC.jpg)
 
