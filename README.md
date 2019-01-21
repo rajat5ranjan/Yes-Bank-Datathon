@@ -31,3 +31,12 @@ Several ML rounds
 
 ![title](rajat.JPG)
 
+
+** __Update 3__**
+
+### Made it to the **Top 21** Teams
+
+Participated in **Yes Bank Datathon Finale 2018** round with 20 Teams.
+
+![title](AC.pdf)
+
